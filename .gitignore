@@ -1,2 +1,4 @@
 .DS_Store
 
+# Local OpenCode tracker state (normally written outside the repository).
+limit_tracker_daily_snapshot.json
